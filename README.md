@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![image](https://github.com/shinniehater1000/shinniehater1000/assets/132265609/9cd1b33b-70dc-4eb9-baab-8ef741783acb)
 
 <!--
 **shinniehater1000/shinniehater1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
